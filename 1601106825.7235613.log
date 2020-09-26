@@ -1,0 +1,88 @@
+15:53:45,725 mephisto.core.operator WARNING Task is using the default blueprint name parlai_chat as a name, as no task_name is provided
+15:53:45,725 mephisto.core.operator INFO Creating a task run under task name: parlai_chat
+15:53:52,15 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>: starting process
+15:53:52,52 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: started process
+15:53:52,54 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router', pid 2514>: process started
+15:53:52,58 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: acquiring wait lock to wait for completion
+15:53:52,58 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: got wait lock
+15:53:52,58 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: exit code not set, waiting on pid
+15:53:52,58 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: <sh.StreamReader object at 0x7f52fdc7f4e0> ready to be read from
+15:53:52,58 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>.stdout: got errno 5, done reading
+15:53:52,58 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: <sh.StreamReader object at 0x7f52fdc7f668> ready to be read from
+15:53:52,58 sh.streamreader DEBUG got no chunk, done reading
+15:53:52,58 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:53:52,59 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:53:52,59 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:53:52,59 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2514 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>.stdout: got chunk size 0 to flush: b''
+15:53:52,59 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:53:52,59 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:53:52,59 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:53:52,59 sh.streamreader DEBUG got chunk size 0 to flush: b''
+15:53:52,59 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router', pid 2514>: process completed
+15:53:53,558 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>: starting process
+15:53:53,566 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: started process
+15:53:53,574 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router', pid 2525>: process started
+15:53:53,575 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: acquiring wait lock to wait for completion
+15:53:53,575 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: got wait lock
+15:53:53,575 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: exit code not set, waiting on pid
+15:53:53,601 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: <sh.StreamReader object at 0x7f52fdc7f9e8> ready to be read from
+15:53:53,602 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>.stdout: got errno 5, done reading
+15:53:53,602 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>: <sh.StreamReader object at 0x7f52fdc7fb38> ready to be read from
+15:53:53,602 sh.streamreader DEBUG got no chunk, done reading
+15:53:53,602 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:53:53,602 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:53:53,602 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:53:53,602 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router'>.<Process 2525 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router']>.stdout: got chunk size 0 to flush: b''
+15:53:53,602 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:53:53,602 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:53:53,602 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:53:53,603 sh.streamreader DEBUG got chunk size 0 to flush: b''
+15:53:53,603 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/data/data/runs/NO_PROJECT/115/build/router', pid 2525>: process completed
+15:53:53,604 mephisto.core.supervisor INFO Sending alive
+15:53:53,604 mephisto.core.supervisor INFO Sending alive
+15:53:53,616 mephisto.core.supervisor INFO Sending alive
+15:53:53,617 mephisto.server.channels.websocket_channel INFO channel open (<websocket._app.WebSocketApp object at 0x7f52fdc7f940>,)
+15:53:53,906 mephisto.core.task_launcher DEBUG type of assignment data: <class 'list'>
+15:53:54,39 mephisto.core.operator INFO Operator running task ID = 115
+15:53:54,44 mephisto.providers.mock.mock_unit INFO Mock task launched: localhost:3000 for preview, localhost:3000/?worker_id=x&assignment_id=229 for assignment 115
+15:53:54,49 mephisto.providers.mock.mock_unit INFO Mock task launched: localhost:3000 for preview, localhost:3000/?worker_id=x&assignment_id=230 for assignment 115
+15:54:24,65 mephisto.core.operator INFO Operator running task ID = 115
+15:54:47,219 demo_worlds INFO read dialogues
+15:54:47,666 demo_worlds INFO 
+User: I am so sick of my job not paying us for the proper amount of hours! 
+Wizard: That's terrible. Employers just don't value their employees sometimes.
+User: It seems like it doesnt it.. i hope it gets better. 
+Wizard: I hope so, too. Have you considered working elsewhere?
+
+15:54:49,533 demo_worlds INFO restore dialogues
+15:54:49,533 mephisto.server.blueprints.parlai_chat.parlai_chat_task_runner INFO run_assignment() world id: assignment-115
+15:54:54,94 mephisto.core.operator INFO Operator running task ID = 115
+15:55:12,494 mephisto.core.operator ERROR Cleaning up after keyboard interrupt, please wait!
+Traceback (most recent call last):
+  File "/home/tao/Mephisto/mephisto/core/operator.py", line 382, in wait_for_runs_then_shutdown
+    time.sleep(10)
+KeyboardInterrupt
+15:55:12,494 mephisto.core.operator INFO operator shutting down
+15:55:12,495 mephisto.core.operator INFO expiring units
+15:55:12,634 mephisto.core.operator INFO Waiting on 1 task runs, Ctrl-C ONCE to FORCE QUIT
+15:55:13,317 mephisto.core.operator INFO Skipping waiting for outstanding task completions, shutting down servers now!
+15:55:13,320 mephisto.server.channels.websocket_channel ERROR Socket logged error: Connection is already closed.
+15:55:13,321 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>: starting process
+15:55:13,339 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: started process
+15:55:13,340 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server', pid 2780>: process started
+15:55:13,341 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: acquiring wait lock to wait for completion
+15:55:13,341 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: got wait lock
+15:55:13,341 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: exit code not set, waiting on pid
+15:55:13,387 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: <sh.StreamReader object at 0x7f52f518fb00> ready to be read from
+15:55:13,388 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>.stdout: got errno 5, done reading
+15:55:13,388 sh.command.process DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>: <sh.StreamReader object at 0x7f52f518a7b8> ready to be read from
+15:55:13,388 sh.streamreader DEBUG got no chunk, done reading
+15:55:13,388 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:55:13,388 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:55:13,388 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:55:13,388 sh.command.process.streamreader DEBUG <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server'>.<Process 2780 [b'/bin/rm', b'-rf', b'/home/tao/Mephisto/tmp/local_server_115/server']>.stdout: got chunk size 0 to flush: b''
+15:55:13,388 sh.stream_bufferer DEBUG acquiring buffering lock for flushing buffer
+15:55:13,389 sh.stream_bufferer DEBUG got buffering lock for flushing buffer
+15:55:13,389 sh.stream_bufferer DEBUG released buffering lock for flushing buffer
+15:55:13,389 sh.streamreader DEBUG got chunk size 0 to flush: b''
+15:55:13,389 sh.command INFO <Command '/bin/rm -rf /home/tao/Mephisto/tmp/local_server_115/server', pid 2780>: process completed
